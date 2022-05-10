@@ -1,7 +1,14 @@
 # hBrute-FTP
-Simple Brute Force FTP server in python for éducation purpose only.
+Simple Brute Force FTP server in python using socket library for education purpose only.
 
-### I use socket library
+## Installation:
+```
+$ git clone https://github.com/ach-git/hBrute-FTP
+$ cd ../hBrute-FTP
+$ pip install socket
+
+$ py Brut-Force-FTP.py
+```
 
 Exemple of combo list in combo.txt
 
