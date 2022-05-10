@@ -1,0 +1,7 @@
+username:password
+user:pass
+test:1234
+user:pass123
+admin:admin
+root:admin
+root:root
